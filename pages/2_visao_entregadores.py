@@ -150,7 +150,7 @@ st.set_page_config(page_title='Visão Entregadores', page_icon='📊', layout='w
 # ========================
 # Import dataset
 # ========================
-df = pd.read_csv('/dataset/train.csv')
+df = pd.read_csv('dataset/train.csv')
 
 # ========================
 # Limpando os dados
