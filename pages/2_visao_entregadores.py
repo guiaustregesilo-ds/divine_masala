@@ -176,7 +176,6 @@ px.bar(df2_aux, x='Order_Date', y='ID')
 st.header('Marketplace - Visão Entregadores')
 
 
-#image_path = 'C:/Users/Guilherme/Documents/repos/ftc_2/divine_masala.png'
 image = Image.open('divine_masala.png')
 st.sidebar.image(image, width = 200)
 
