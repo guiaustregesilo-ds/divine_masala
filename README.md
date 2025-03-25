@@ -11,9 +11,7 @@ decisões simples, porém importantes.
 
 A Divine Masala possui um modelo de negócio chamado Marketplace, que fazer o intermédio do negócio entre três clientes principais:
 
-Restaurantes, entregadores e pessoas compradoras. Para acompanhar o 
-crescimento desses negócios, o CEO gostaria de ver as seguintes 
-métricas de crescimento:
+Restaurantes, entregadores e pessoas compradoras. Para acompanhar o crescimento desses negócios, o CEO gostaria de ver as seguintes métricas de crescimento:
 
 ## Do lado da empresa:
 
@@ -97,18 +95,18 @@ clima ensoladao.
 O produto final do projeto Painel online, hospedado em um Cloud e disponível para acesso em 
 qualquer dispositivo conectado à internet.
 
- O painel pode ser acessado através desse link: 
+O painel pode ser acessado através desse link: 
  
 [https://project-curry
 company.streamlit.app/](https://divinemasala-ftc.streamlit.app/)
 
-# Conclusão
- O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para o CEO.
+# 6. Conclusão
+O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para o CEO.
  
 Da visão da Empresa, podemos concluir que o número de pedidos 
 cresceu entre a semana 06 e a semana 13 do ano de 2022.
 
-# Próximo passos
+# 7. Próximo passos
  1. Reduzir o número de métricas.
  2. Criar novos filtros.
  3. Adicionar novas visões de negócio.
