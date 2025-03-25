@@ -128,7 +128,7 @@ st.set_page_config(page_title='Visão Empresa', page_icon='📊', layout='wide')
 # ========================
 # Import dataset
 # ========================
-df = pd.read_csv('/dataset/train.csv')
+df = pd.read_csv('dataset/train.csv')
 
 # ========================
 # Limpando os dados
