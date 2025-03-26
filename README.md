@@ -3,11 +3,9 @@
 A Divine Masala é uma empresa de tecnologia que criou um aplicativo que conecta restaurantes, entregadores e pessoas. Através desse aplicativo, é possível realizar o pedido de uma refeição, em 
 qualquer restaurante cadastrado, e recebê-lo no conforto da sua casa por um entregador também cadastrado no aplicativo da Divine Masala.
 
-A empresa realiza negócios entre restaurantes, entregadores e pessoas, e gera muitos dados sobre entregas, tipos de pedidos, condições climáticas, avaliação dos entregadores e etc. Apesar da entrega estar crescento, em termos de entregas, o CEO não tem visibilidade completa 
-dos KPIs de crescimento da empresa.
+A empresa realiza negócios entre restaurantes, entregadores e pessoas, e gera muitos dados sobre entregas, tipos de pedidos, condições climáticas, avaliação dos entregadores e etc. Apesar da entrega estar crescendo, em termos de entregas, o CEO não tem visibilidade completa dos KPIs de crescimento da empresa.
 
-Você foi contratado como um Cientista de Dados para criar soluções de dados para entrega, mas antes de treinar algoritmos, a necessidade da empresa é ter um os principais KPIs estratégicos organizados em uma única ferramenta, para que o CEO possa consultar e conseguir tomar 
-decisões simples, porém importantes.
+Como um Cientista de Dados criei soluções de dados para entrega, mas antes de treinar algoritmos, a necessidade da empresa é ter um os principais KPIs estratégicos organizados em uma única ferramenta, para que o CEO possa consultar e conseguir tomar decisões simples, porém importantes.
 
 A Divine Masala possui um modelo de negócio chamado Marketplace, que fazer o intermédio do negócio entre três clientes principais:
 
@@ -36,10 +34,8 @@ Restaurantes, entregadores e pessoas compradoras. Para acompanhar o crescimento 
  1. A quantidade de entregadores únicos.
  2. A distância média dos resturantes e dos locais de entrega.
  3. O tempo médio e o desvio padrão de entrega por cidade.
- 4. O tempo médio e o desvio padrão de entrega por cidade e tipo de 
-pedido.
- 5. O tempo médio e o desvio padrão de entrega por cidade e tipo de 
-tráfego.
+ 4. O tempo médio e o desvio padrão de entrega por cidade e tipo de pedido.
+ 5. O tempo médio e o desvio padrão de entrega por cidade e tipo de tráfego.
  6. O tempo médio de entrega durantes os Festivais.
 
 # 2. Premissas assumidas para a análise
@@ -47,8 +43,7 @@ O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exib
 
  1. A análise foi realizada com dados entre 11/02/2022 e 06/04/2022.
  2. Marketplace foi o modelo de negócio assumido.
- 3. Os 3 principais visões do negócio foram: Visão transação de pedidos, 
-visão restaurante e visão entregadores.
+ 3. Os 3 principais visões do negócio foram: Visão transação de pedidos, visão restaurante e visão entregadores.
 
 # 3. Estratégia da solução
  O painel estratégico foi desenvolvido utilizando as métricas que refletem 
@@ -58,14 +53,16 @@ as 3 principais visões do modelo de negócio da empresa:
 3. Visão do crescimento dos entregadores
 
 # Cada visão é representada pelo seguinte conjunto de métricas.
- 1. Visão do crescimento da empresa
+## 1. Visão do crescimento da empresa
+    
  a. Pedidos por dia
  b. Porcentagem de pedidos por condições de trânsito
  c. Quantidade de pedidos por tipo e por cidade.
  d. Pedidos por semana
  e. Quantidade de pedidos por tipo de entrega
  f. Quantidade de pedidos por condições de trânsito e tipo de cidade
- 2. Visão do crescimento dos restaurantes
+ 
+## 2. Visão do crescimento dos restaurantes
  a. Quantidade de pedidos únicos.
  b. Distância média percorrida.
  c. Tempo médio de entrega durante festival e dias normais.
@@ -74,7 +71,8 @@ normais.
  e. Tempo de entrega médio por cidade.
  f. Distribuição do tempo médio de entrega por cidade.
  g. Tempo médio de entrega por tipo de pedido.
- 3. Visão do crescimento dos entregadores
+
+## 3. Visão do crescimento dos entregadores
  a. Idade do entregador mais velho e do mais novo.
  b. Avaliação do melhor e do pior veículo.
  c. Avaliação média por entregador.
